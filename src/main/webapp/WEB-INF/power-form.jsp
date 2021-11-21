@@ -6,7 +6,7 @@
 <body>
     <h2>Potęgowanie</h2>
     <form method="get" action="/mvcpower">
-        <label >
+        <label>
          Liczba: <input type="number" name="number" required/>
         </label><br>
         <button type="submit">Oblicz</button><br>
